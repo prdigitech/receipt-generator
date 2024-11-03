@@ -65,7 +65,7 @@ Contributions are welcome! If you'd like to improve the project, please fork the
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## Contact
-For any inquiries, feel free to reach out via GitHub or contact me at [your_email@example.com].
+For any inquiries, feel free to reach out via GitHub or contact me at [prdigitechofficial@gmail.com].
 
 ---
 
